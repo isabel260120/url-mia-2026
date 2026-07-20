@@ -1,0 +1,16 @@
+1. ¿Qué función cumple File.ReadAllLines()?
+R//Permite leer un archivo de texto y devolver el contenido como un arreglo de cadenas 
+donde cada elemento del arreglo corresponde a una linea del archivo
+
+2. ¿Para qué sirve Split(',')?
+R//Divide una cadena de texto en varias partes, usando la coma como punto de separación, 
+y devuelve un arreglo con esas partes. En el laboratorio se usa para separar los valores de cada línea del CSV 
+como Id, Nombre y Carrera
+
+3. ¿Qué ventaja tiene utilizar una List<Estudiante>?
+R//Permite almacenar una cantidad variable de estudiantes sin definir un tamaño fijo, y facilita agregar, eliminar y 
+recorrer los elementos de la colección.
+
+4. ¿Qué es JSON y para qué se utiliza?
+R//Es un formato de texto ligero para representar datos estructurados en pares clave-valor. Se usa para almacenar o 
+transmitir información entre sistemas de forma fácil de leer y procesar.
