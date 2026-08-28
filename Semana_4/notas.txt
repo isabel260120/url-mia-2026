@@ -1,0 +1,5 @@
+git clone – Clona un repositorio a tu computadora.
+git checkout – Cambia de rama o crea una nueva rama.
+git branch – Muestra las ramas del repositorio.
+git status – Muestra el estado de los archivos y cambios.
+git add – Agrega archivos al área de preparación antes de hacer un commit.

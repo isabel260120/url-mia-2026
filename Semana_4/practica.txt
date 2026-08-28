@@ -1,0 +1,9 @@
+¿Qué es Git?
+R//Git es una herramienta que permite guardar y 
+controlar los cambios que se hacen en un proyecto o en el código.
+¿Qué es GitLab?
+R//GitLab es una plataforma en línea donde se puede almacenar 
+proyectos con Git, trabajar en equipo y compartir cambios.
+¿Cuál es la diferencia entre Git y GitLab?
+R//Git es la herramienta que controla las versiones de un proyecto. 
+GitLab es la plataforma que usa Git para guardar los proyectos y facilitar el trabajo colaborativo.
