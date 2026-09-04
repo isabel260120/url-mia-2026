@@ -1,0 +1,5 @@
+ID|Producto|Cantidad
+1|Teclado|25
+2|Mouse|40
+3|Monitor|15
+4|Impresora|10
