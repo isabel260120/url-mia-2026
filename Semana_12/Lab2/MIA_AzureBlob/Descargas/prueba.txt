@@ -1,0 +1,2 @@
+Archivo de prueba para el Laboratorio No. 2 de MIA.
+Prueba de almacenamiento utilizando Azure Blob Storage.
