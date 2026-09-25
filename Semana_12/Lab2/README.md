@@ -115,4 +115,11 @@ De esta forma, el código fuente puede almacenarse en GitHub sin exponer la Conn
    - 3 - Descargar archivo
    - 4 - Eliminar archivo
    - 5 - Salir
+   ## Connection String utilizada
+
+Para realizar la conexión con Azure Blob Storage se utilizó la siguiente Connection String:
+
+DefaultEndpointsProtocol=https;AccountName=miastorage12rp2026;AccountKey=LACgk3OFm2JiND430GWkdeICvEoB4j3wHu...............==;EndpointSuffix=core.windows.net
+
+#Por motivos de seguridad, la Connection String se muestra de forma parcial, ocultando la AccountKey para evitar exponer credenciales  dentro del repositorio de GitHub como buena practica.
 
