@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using DotNetEnv;
 using Azure.Storage.Blobs;
+Env.Load();
 
 string? connectionString =
     Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
